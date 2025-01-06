@@ -1,11 +1,11 @@
 ---
-date: '2024-11-02T11:50:54.000Z'
+date: '2025-01-06T11:50:54.000Z'
 title: Sony Venice 2 Camera Operator
 tagline: Skills Bootcamp in Virtual Production.
 preview: >-
   I am currently participating in a Skills Bootcamp in Virtual Production, with a specific focus on training with Sony’s high-end VENICE 2 cameras.
 image: >-
-  https://www.bandpro.com/pub/media/wysiwyg/bpga/sony-cinealta-venice-2.png
+  /images/camera.jpg
 ---
 
 
@@ -28,4 +28,4 @@ quality and technically advanced productions.
 Check out the [Sony Venice 2](https://pro.sony/en_AU/products/digital-cinema-cameras/venice2/).
 
 
-![Coral Reef](https://cinematographer.org.au/wp-content/uploads/2021/12/VENICE-2-with-6K-sensor.jpg)
+![Sony Venice 2](https://www.bandpro.com/pub/media/wysiwyg/bpga/sony-cinealta-venice-2.png)
